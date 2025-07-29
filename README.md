@@ -72,6 +72,7 @@ This section presents a list of potential Data Analytics projects. Each entry in
 
   * Synthetic data generation programs.
   * Synthetic data files.
+  * Individual or Grouped plot generation programs
   * Final reporting document.
 
 ---
