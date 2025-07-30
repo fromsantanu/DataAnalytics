@@ -1,6 +1,5 @@
 # Data Analytics Projects
 This section presents a list of potential Data Analytics projects. Each entry includes a complete project description, an Excel data schema, and the expected set of output reports.
-Comparative Performance Assessment of a Student in Multi-Subject Examinations
 
 ## Table of Contents
 - **Simple and Basic**
