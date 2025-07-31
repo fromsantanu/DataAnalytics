@@ -19,7 +19,7 @@ This section presents a list of potential Data Analytics projects. Each entry in
   - [**Dementia Progression & Risk Factors in India**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p21.md)
 
 
-
+---
 ## Guidance for Executing the Projects
 
 ### 1. Generating Synthetic Data
