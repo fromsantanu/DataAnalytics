@@ -12,7 +12,7 @@ This section presents a list of potential Data Analytics projects. Each entry in
   - [**Comparative Performance Assessment of a Student in Multi-Subject Examinations**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p08.md)
   - [**Market Competitiveness and Adoption Potential of a Portable Heartbeat Analyzer and Cardiograph Device**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p04.md)
   - [**Survival Analysis of Stage IV Colorectal Cancer Patients Receiving Immunotherapy**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p05.md)
-- **Large Projects Taking Several Months/Years**
+- **Very Large Projects (Taking Several Months/Years)**
   - [**Dementia Progression & Risk Factors in India**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p21.md)
 
 
