@@ -2,7 +2,9 @@
 This section presents a list of potential Data Analytics projects. Each entry includes a complete project description, an Excel data schema, and the expected set of output reports.
 
 ## Table of Contents
+
 - **Simple and Basic**
+
   - [**Epidemiological Study of Allergy In a Small Town**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p01.md)
   - [**Epidemiological Study of Dengue Fever in Urban and Semi-Urban Regions of India**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p02.md)
   - [**An Investigative Study on the Rising Incidence of Type 2 Diabetes Mellitus among Urban Adults**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p03.md)
