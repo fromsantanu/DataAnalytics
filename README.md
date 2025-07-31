@@ -17,7 +17,7 @@ This section presents a list of potential Data Analytics projects. Each entry in
     
 **Very Large Projects (Taking Several Months/Years)**
   - [**Dementia Progression & Risk Factors in India**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p21.md)
-  - [**Assessment, Prevention, and Control of Malnutrition**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p22.md)
+  - [**Assessment, Prevention, and Control of Malnutrition in a Third World Country**](https://github.com/fromsantanu/DataAnalytics/blob/main/pages/p22.md)
 
 ---
 ## Guidance for Executing the Projects
