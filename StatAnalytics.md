@@ -1,0 +1,40 @@
+# Statistical Analyis - Problems and Exercises
+## Table of Contents
+#### Descriptive Statistics
+- [Measuring Central Tendency - Mean, Median and Mode](#)
+- [Measuring Dispersion - Range, Variance and Standard Deviation](#)
+- [Correlation and Covariance](#)
+- [Stadardization](#)
+
+#### Visualization
+- [Line Chart Exercises] (#)
+- [Bar Chart Exercises](#)
+- [Pie Chart Exercises](#)
+- [Box and Whisker Chart Exercises](#)
+- [Histogram and KDE Chart Exercises](#)
+- [Scatter Chart Exercises](#)
+- [Heatmap Exercises](#)
+- [Composite Chart Exercises](#)
+
+#### Inferential Statistics
+- [Sampling and Estimation](#)
+- [Null and Alternative Hypotheses](#)
+- [One-sample Z-test](#)
+- [Two-sample Z-test](#)
+- [One-sample t-test](#)
+- [Independent t-test](#)
+- [Paired t-test](#)
+- [Chi-Square Test](#)
+- [One-way ANOVA](#)
+- [Two-way ANOVA](#)
+- [Repeated Measures ANOVA](#)
+- [Mann-Whitney U Test](#)
+- [Wilcoxon Signed-Rank Test](#)
+- [Kruskal-Wallis Test](#)
+- [Pearson Correlation](#)
+- [Spearman’s Rank Correlation](#)
+- [-Test for Equality of Variances](#)
+- [Levene’s Test (Homogeneity of Variances)](#)
+- [Shapiro-Wilk Test](#)
+- [Kolmogorov-Smirnov Test](#)
+- [Bartlett’s Test](#)
