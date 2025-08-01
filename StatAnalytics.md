@@ -7,7 +7,7 @@
 - [Stadardization](#)
 
 #### Visualization
-- [Line Chart Exercises] (#)
+- [Line Chart Exercises](#)
 - [Bar Chart Exercises](#)
 - [Pie Chart Exercises](#)
 - [Box and Whisker Chart Exercises](#)
