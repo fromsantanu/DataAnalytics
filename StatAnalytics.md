@@ -16,7 +16,7 @@
 - [Heatmap Exercises](#)
 - [Composite Chart Exercises](#)
 
-#### Inferential Statistics
+#### Inferential Analysis and Testing
 - [Sampling and Estimation](#)
 - [Null and Alternative Hypotheses](#)
 - [One-sample Z-test](#)
