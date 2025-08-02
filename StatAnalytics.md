@@ -1,4 +1,4 @@
-# Statistical Analyis - Problems and Exercises
+# Statistical Analysis - Problems and Exercises
 ## Table of Contents
 #### Descriptive Statistics
 - [**Measuring Central Tendency - Mean, Median and Mode**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/d01.md)
