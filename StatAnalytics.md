@@ -13,7 +13,7 @@
 - [**Box and Whisker Chart Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl04.md)
 - [**Histogram and KDE Chart Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl05.md)
 - [**Scatter Chart Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl06.md)
-- [**Comparison and Ranking Heatmap Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl07.md)
+- [**Comparison and/or Ranking Heatmap Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl07.md)
 - [**Correlation Heatmap Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl08.md)
 
 #### Inferential Statistics and Testing
