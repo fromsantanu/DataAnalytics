@@ -14,7 +14,7 @@
 - [**Histogram and KDE Chart Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl05.md)
 - [**Scatter Chart Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl06.md)
 - [**Heatmap Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl07.md)
-- [**Composite Chart Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl08.md)
+- [**Correlation Heatmap Exercises**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/pl08.md)
 
 #### Inferential Statistics and Testing
 - [**Sampling and Estimation**](https://github.com/fromsantanu/DataAnalytics/blob/main/StatAnalytics/it01.md)
